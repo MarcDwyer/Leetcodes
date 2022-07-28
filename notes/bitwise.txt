@@ -1,0 +1,19 @@
+& 
+Checks if both are 1s
+Uses
+* Can check if digit is a 1 or 0
+Can get carry of 2 numbers
+
+|
+Sets to 1 if one of the binarys is 1.
+* You can use this to set the bit
+
+Bit reversal
+https://leetcode.com/problems/reverse-bits/discuss/2087948/JavaScript-O(1)-Space-O(1)-time
+
+
+
+^ XOR
+Can be used for cancelling out numbers
+XOR the same number and it'll equal 0
+Can also be used to sum 2 numbers (although it doesn't handle carry)
